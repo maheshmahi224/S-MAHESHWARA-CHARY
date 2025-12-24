@@ -1,25 +1,36 @@
 name: Generate Contribution Activity Game
 
+# REQUIRED: allow pushing files to output branch
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Generate the snake animation (classic GitHub dark theme)
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: maheshmahi224
+
+          # ---- THEME CONFIG (classic GitHub dark) ----
+          theme: github-dark
+          background: "#0d1117"     # GitHub dark background
+          snake_color: "#39d353"    # GitHub green
+
+          # ---- OUTPUT FILES ----
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
+      # Push generated SVGs to `output` branch
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
