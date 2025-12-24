@@ -1,88 +1,94 @@
-<h1 align="center">Hey 👋 What’s Up?</h1>
+<!-- ===================== GITHUB PROFILE README ===================== -->
 
-<h3 align="center">I'm <b>S. Maheshwara Chary</b> — Full-Stack Developer | AI & Agentic Systems Builder</h3>
-<p align="center">2nd Year B.Tech · Scient Institute of Technology, Hyderabad</p>
-
----
-
-<!-- ===== TECH ICON STRIP (COLORFUL) ===== -->
+<h1 align="center">Hi 👋, I'm S. Maheshwara Chary</h1>
+<h3 align="center">
+2nd Year B.Tech @ Scient Institute of Technology, Hyderabad<br/>
+AI & Tech Enthusiast • Full-Stack Builder • Future Tech Leader
+</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
+  <img src="https://komarev.com/ghpvc/?username=maheshmahi224&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </div>
 
 ---
 
-<!-- ===== SOCIAL BADGES ===== -->
+## 🧠 About Me
+
+- 🚀 Building **POLLUTRACE TECHNOLOGIES**
+- 🌱 Learning **LangChain, AI Agents & RAG**
+- 👯 Open to collaborate with **AI & Research Enthusiasts**
+- 💬 Ask me about **AI Agents & Vibe Coding**
+- 📫 Contact: **maheshmahi.ai224@gmail.com**
+- 🌐 Portfolio: **https://maheshmahi224.vercel.app**
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/s-maheshwara-chary-86619a339"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" /></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="28" /></a>
-  <a href="mailto:maheshmahi.ai224@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" /></a>
-  <a href="https://dev.to/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="28" /></a>
+
+<a href="https://linkedin.com/in/s-maheshwara-chary-86619a339">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/mahesh____224">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.topcoder.com/members/500059">
+<img src="https://img.shields.io/badge/TopCoder-000000?style=for-the-badge&logo=topcoder&logoColor=white"/>
+</a>
+
+<a href="mailto:maheshmahi.ai224@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## 😎 About Me
-
-I’m a **builder-first developer** who cares more about **systems that survive production** than pretty demos.
-
-* 🧠 Focused on **AI Agents, LangChain & RAG pipelines**
-* 🌐 Strong in **Full-Stack (Next.js + Node + Cloud)**
-* 🛠 Love turning messy ideas into structured products
-* 🚀 Currently building **POLLUTRACE TECHNOLOGIES**
-
-> I don’t chase trends — I reverse-engineer why they work.
-
----
-
-## 📊 GitHub Activity
+## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maheshmahi224&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" />
-  <img src="https://github-profile-trophy.vercel.app/?username=maheshmahi224&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="160" />
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,redis,firebase,aws,gcp,git,linux&perline=7" />
+
 </div>
 
 ---
 
-## 🟡 Contribution Graph (Animated Trick)
+## 🏆 GitHub Trophies
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maheshmahi224/maheshmahi224/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maheshmahi224/maheshmahi224/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maheshmahi224/maheshmahi224/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maheshmahi224&theme=onestar&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maheshmahi224&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmahi224&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maheshmahi224&theme=github-dark&hide_border=true" />
+</div>
 
 ---
 
 ## 🎯 Philosophy
 
-> Build quietly.
-> Break things early.
-> Ship only what you’d maintain at 3AM.
+> Build systems that survive reality.  
+> Think deeply. Ship responsibly. Maintain always.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maheshmahi224&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+</div>
